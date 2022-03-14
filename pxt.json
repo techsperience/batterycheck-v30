@@ -1,0 +1,27 @@
+{
+    "name": "batteryCheck v3.0",
+    "description": "",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.43",
+        "tag": "v1.4.43",
+        "commits": "https://github.com/microsoft/pxt-adafruit/commits/88bf910aac7ce867e3bbfdaa08344a3ed30a0422",
+        "target": "1.6.8",
+        "pxt": "5.20.6",
+        "targetId": "adafruit"
+    },
+    "supportedTargets": [
+        "adafruit"
+    ],
+    "preferredEditor": "blocksprj"
+}
